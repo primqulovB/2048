@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2048</string>
+    <!--<string name="app_name">Legend 2048</string>-->
+    <string name="key0">jahongir1918</string>
+    <string name="privacy_policy">https://www.freeprivacypolicy.com/live/e9033913-cb11-4d1c-b700-c1c482beb568</string>
+    <string name="score">Score</string>
+    <string name="best">Best</string>
+    <string name="restart">Restart</string>
+    <string name="home">Home</string>
+</resources>
